@@ -8,6 +8,7 @@ export default class AddWorkplacePagePage {
     this.page = page;
   }
 
+  
   async AddWorkplace()
   {
     await this.page.locator("#addworkplaceButton").click();
@@ -24,39 +25,39 @@ export default class AddWorkplacePagePage {
     await this.page.fill('#WorkplaceName', "TestCompany-" + randomNumber);
   }
 
-  async enterAddressLineOne()
+  async enterAddressLineOne(strAddress1: string)
   {
-    await this.page.fill('#AddressLine1', '1 Test Road');
+    await this.page.fill('#AddressLine1', strAddress1);
   }
 
-  async enterAddressLineTwo()
+  async enterAddressLineTwo(strAddress2: string)
   {
-    await this.page.fill('#AddressLine2', 'Bushey');
+    await this.page.fill('#AddressLine2', strAddress2);
   }
 
-  async enterTown()
+  async enterTown(strCity: string)
   {
-    await this.page.fill('#City', 'Testfordshire');
+    await this.page.fill('#City', strCity);
   }
 
-  async enterState()
+  async enterState(strState: string)
   {
-    await this.page.fill('#State', 'Testfordshire');
+    await this.page.fill('#State', strState);
   }
 
-  async enterPostcode()
+  async enterPostcode(strPostcode: string)
   {
-    await this.page.fill('#PostCode', 'TS2 TST');
+    await this.page.fill('#PostCode', strPostcode);
   }
 
-  async enterLatitude()
+  async enterLatitude(strLatitude: string)
   {
-    await this.page.fill('#Latitude', '-0.44546');
+    await this.page.fill('#Latitude', strLatitude);
   }
 
-  async enterLongitude()
+  async enterLongitude(strLongitude: string)
   {
-    await this.page.fill('#Longitude', '1.45654');
+    await this.page.fill('#Longitude', strLongitude);
   }
 
   async clickContinue()

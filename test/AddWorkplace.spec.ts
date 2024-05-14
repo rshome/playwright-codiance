@@ -21,13 +21,13 @@ test('User can add workplace', async ({ page }) => {
 
   await addWorkPlacePage.enterWorkplaceName();
 
-  await addWorkPlacePage.enterAddressLineOne();
-  await addWorkPlacePage.enterAddressLineTwo();
-  await addWorkPlacePage.enterTown();
-  await addWorkPlacePage.enterState();
-  await addWorkPlacePage.enterPostcode();
-  await addWorkPlacePage.enterLatitude();
-  await addWorkPlacePage.enterLongitude();
+  await addWorkPlacePage.enterAddressLineOne("1 Test Road");
+  await addWorkPlacePage.enterAddressLineTwo("Bushey");
+  await addWorkPlacePage.enterTown("Testford");
+  await addWorkPlacePage.enterState("Testfordshire");
+  await addWorkPlacePage.enterPostcode("TS2 TST");
+  await addWorkPlacePage.enterLatitude("-0.34345");
+  await addWorkPlacePage.enterLongitude("3.454545");
   await addWorkPlacePage.Continue();
 
   // Then
