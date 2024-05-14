@@ -2,14 +2,15 @@
 import { test, expect } from '@playwright/test';
 import { LoginPage } from '../pages/Login.page';
 import CompanyOnboardingPage from '../pages/CompanyOnboarding.page';
+import { Credentials } from '../pages/Credentials';
 
 test('User can register company', async ({ page }) => {
   // Given
   const loginPage = new LoginPage(page);
   const companyOnboardingPage = new CompanyOnboardingPage(page);
   await loginPage.navigate();
-  await loginPage.enterUsername("test+automatedManageUser@codiance.com");
-  await loginPage.enterPassword("Test2468@");
+  await loginPage.enterUsername(Credentials.username);
+  await loginPage.enterPassword(Credentials.password);
   await loginPage.clickLoginButton();
   expect (await loginPage.getWelcomeMessage()).toBe(true);
 
