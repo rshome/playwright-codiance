@@ -34,8 +34,8 @@ test('User is notified of empty fields', async ({ page }) => {
   const loginPage = new LoginPage(page);
   const companyOnboardingPage = new CompanyOnboardingPage(page);
   await loginPage.navigate();
-  await loginPage.enterUsername("test+automatedManageUser@codiance.com");
-  await loginPage.enterPassword("Test2468@");
+  await loginPage.enterUsername(Credentials.username);
+  await loginPage.enterPassword(Credentials.password);
   await loginPage.clickLoginButton();
   expect (await loginPage.getWelcomeMessage()).toBe(true);
 
