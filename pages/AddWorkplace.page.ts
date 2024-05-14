@@ -8,7 +8,6 @@ export default class AddWorkplacePagePage {
     this.page = page;
   }
 
-  
   async AddWorkplace()
   {
     await this.page.locator("#addworkplaceButton").click();
