@@ -67,5 +67,4 @@ export default class CompanyOnboardingPage {
     var bool = await this.page.getByText('You must select a country to continue').isVisible();
     return bool;
   }
-
 }

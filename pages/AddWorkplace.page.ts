@@ -64,7 +64,6 @@ export default class AddWorkplacePagePage {
     await this.page.locator("#nextButton").click();
   }
 
-
   async isUserNotifiedEmptyCompanyName(): Promise<boolean>{
     var bool = await this.page.getByText('You must fill in your company name to continue').isVisible();
     return bool;

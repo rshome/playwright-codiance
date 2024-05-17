@@ -1,4 +1,5 @@
 import { Page } from 'playwright';
+import { Credentials } from './Credentials';
 
 export class LoginPage {
     private page: Page;
@@ -8,7 +9,7 @@ export class LoginPage {
     }
 
     async navigate() {
-        await this.page.goto("/Login?returnUrlToken=aHR0cHM6Ly9wYXJ0bmVyLXBvcnRhbC1hcHAtZXUtd2VzdC0xLmRldi53b3JrYS50ZWNo&clientIdToken=cGFydG5lci1wb3J0YWwtYXBwbGljYXRpb24%3d");        
+        await this.page.goto(Credentials.loginUrl);        
     }
 
     async enterUsername(username: string) {
