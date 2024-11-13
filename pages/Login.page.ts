@@ -32,9 +32,9 @@ export class LoginPage {
     if (acceptButton) {
         console.log("Cookies button found, clicking to accept.");
         await acceptButton.click();
-    } else {
-        console.log("No cookies dialog found.");
-    }
+        } else {
+            console.log("No cookies dialog found.");
+        }
     }
 
     async enterUsername(username: string) {
