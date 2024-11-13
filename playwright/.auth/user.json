@@ -1,0 +1,115 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Antiforgery.VyLW6ORzMgk",
+      "value": "CfDJ8KAzjSbYdtJKlkJJc7spKjoC7WSdHQjdLPAKgCelijDnXbnMxvjeGowP7sxUQgw2BO_HwbaAGomkSOXTDDGhBtBpjurp77npHbaFh89fxwGT7tUWCLeHaXRUTUSDsLB4FcS_beCwG-h2TPPvtrNqFUs",
+      "domain": "worka-pp-identity-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "idsrv.session",
+      "value": "A5D48F58FBD8ACB9B52B63DADFD3D062",
+      "domain": "worka-pp-identity-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Identity.Application",
+      "value": "CfDJ8KAzjSbYdtJKlkJJc7spKjqOpTrhA3sA_ila_FkWeIid5YxrQrqQjUpLjRdzB-m9zy4z-dSTDpPtGu6Je4YypwDOAVO1KvE6AjDdlhJNxdNLDwtxzdx-HII6IKRT9B_6YfY6VztzIV_aLAMME5MgEl626YbPVq_YgvxuFyu7ogAiLZkJYSNs4ueMF5wwVX-rP4V_stSKKNf9jbWmapFnijEL7RrxhUDFtbYqMBla7shqpS1niYVNMV8NTpDP0Cks8jzdvgkUSKUq6Q5ZdGjAFQxq_QvvKvtavHs-7mz3efRjiLC4rEJunqN8ME3NRcEOpYfAmR5JEYNnYcVVypguyTT7MxUnxiG8ywkedL0dEz9tNZZoGo3CqG_Yvwsr_Urqy8wDDqHD8LkrNvLkXbdAQt5KSRsUPgBrCtJzuCEb2B2U5QaBsFgIGzVJQU3SpHuo-wylVD9JM_Vv1ZEqKPgokal90a0KDPQBxwDxXlvO7xQKl7SRAw30zwKSVsJtvq7o5JBnUzMKuyUuU7H56Hl6ZtZ7dZCEeWWMl4Ik0nfBN_RTHWe_h_-WYRR47tXcSVH5XGcqiLdQ4vYOgAqS1O3WwpBU5MFZtHBc4e18Z9O8U2yLoKFn9ELbBMa1_fQR9hFicsdI2zWQm6u1VBQ9iJsT37O02l74ODmNA0uPOltt1EE5KgGh9IK7Kro5CFmCCm0gA8HtaL7Re5G4cz5HKeYRV0hPVrzfujECewTMfahscEy-mx_Z-bUTyTZ6pHmNObCQB9vUiLnxlBRMIArAocZtLSmcipe8za2R3-miH0jvUqEPkEcTas_8S6v6iJIZj2mecYcEStzeMWO4D233hM9a5jm4FledExkkeFiHZbBpQXP05X5hDVD5xx40G8XLG7UCInK0KSLRelAfROzPx7twTokzWZDzmUF_oB01o4pCDROj4kycifyjApZjqdFTLlAoBXHHbo40Se8swpcoeEb9DzGJdMt9XSJ6iXmefU3RuEo1hYb1voHPSEgDwfza5T_SVc_7a8HVJKWqapyv-gvMcEtoZJcC9_sBbM6hinu7SLfORRJpeQxFnknzqZe2kP-2UPqGpJggkN95buv3KIya3OU",
+      "domain": "worka-pp-identity-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALB",
+      "value": "5SjT5NfcACGvthIhlBx6R260p7RXq8qyaC/Fx5Y9UCIh4qPLOK3xmBF1B59Sx87VscqUISt4vteGWjHFH2tbPe5iOu6RPHoX0zSxebhUDgrwccSewKfSXrKwaAht",
+      "domain": "worka-pp-identity-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": 1724843467.808308,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "5SjT5NfcACGvthIhlBx6R260p7RXq8qyaC/Fx5Y9UCIh4qPLOK3xmBF1B59Sx87VscqUISt4vteGWjHFH2tbPe5iOu6RPHoX0zSxebhUDgrwccSewKfSXrKwaAht",
+      "domain": "worka-pp-identity-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": 1724843467.808519,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Cookies",
+      "value": "chunks-2",
+      "domain": "ppa-latimer-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNetCore.CookiesC1",
+      "value": "CfDJ8EY8C8as0XNGlfB1DnMcsFwzK7ShrK93qBTrsjXl83euLFRgfmmkQLgklDEoPEcYFzYhQrdwWZBMnbho_qbTFXExaiAu9A0WlqN5XAHBtM4kD-QCBuinbdsDSeTIg8PIy87kllil6OKwuSyJI7PMjHqQpKyMt1BiLDZDjVV-qDRS7tvBJGVG3bpH4G65vObAULJjJxUpU9QNXMFMKC5O0vPTGqQu_cRPIZlVk79hGlvCme4eYGT1iLhlADKEQX4SHaaBHthGjUUwEAJ_CVBNEcsgvVXSAcHRDRiM96JbNGssQpvk40F1nOcivSUI7G3sfjwHQzLA8MYTiSK2dXlC5vMhNIt07V9GTxkEIlr1yWkbzrRv1SHfaC1_e-IGxgM-Q1Mx71ut1BNRr7vnS6Y1UXjoYQ6hqZDuemMecK5iFn1imd8I87jlvm36R83UZ2juhozCqLnwXDdi2CshsFM1OfSQ_mjcGNv6hAMEHRvgWsgUBddgh1ztU8TSfevFbfoHIEWpLR7n8MPr4UUxxbPYWDA0sF2kCx2CHMX6iVGCswB-RmqRDiQbx4pQHqxE_MoxyacL0EvwclgMeSjQmjyIqSiGTK00xVGA0bamu844GJOmXi3jM7Qyx9w7SfrTD5UaTuW-5QnaEHK6EpeRF873Jjcgu_kVDq_P_cDjjswUuIZpwVkGttT7-SCUTwJzTqbCEi9LPMAeqXt7r3tCG6dQtFtJWaw8Gw8O_zzsB9PAmxxkACxC6d1p851BZW8pFO6TMWdI4cMtcvYckE8d3fb1aaUTh0inuvdrM82gjri65v6Dai5lmjH2vvnwEpUO-oe_4UhQzIaOt6Q-60fdpQ0qECHpS1oALcxrxeccl6w8_SnIx8LcOFtoc8APQ_xlIZdWZHpl136_MmcaPeziXepI2gOJkq9G4tpG5B30U0642e8i1rVdYJd5mjEY9iu2Czr3YwUcw1fpqEEDXrIHQUg1gYPbWPemfZj4F_L9RifiCE7ROtG2WncwHf84iSpB1vHxLbfkUVy7_0SCvtqngpyShd0Hg67LujiSkl4DEHfEOaUIvtAs6m5LGSQDNgsE1prUk_upGVbcyOWwzNFgzoyEYao0e_j5lbAOEs7PQ1-4GRMie3NEsutcYueiK8XN2eAbYuLLvFaMVDbCdjYuAuGOyzxXSJExMNrKA1yHTS4IA3qyKKyGX1nQLr-p-Or87NDYyhtL1n80iEOgTnNGhHw1UtxyhKaFrFd3kEWiEDhjE6Hi0u8TTmaU9ZyUMm1w0lm5PPWvRVWZ2dqrMTmRKIA9XjRYU_k93GnRyELjGCo9u9UIS4o4CVtMUi367eeAI2LEz1sVqJt2JiX5Q4RexIUOdl8PEpyYm3ZZeArLJNLmJ66o0RzEpjKhCNTZMdTR7AtRXWfF3zmsrB-QgvINbBez4CjHaenKnfhjxx2eQ4oa04bVWdVjiC9ZFMiFanjiVuLqRrUCvddlrjJd47MHiBiW04StZws4gHek7QI8d6GzO-VrQBgsxtE8nTFpmawomPZVduXeZqQdG_Pk8VFbL3YZmDkfcYjTjTB7clOF9uSfMR6zYkxkVbymYzgrQaO6bpTXgExNo5V-9cLaANbTD2aApbMVulmd-9XzPzcc7zzhCiNLjwaXvG9DM11h6aosiL4a3RfAg2e63J07JVMjbMEdJ2Z99l1Jkf-8hEoe3QoA8ceYwuVzotjagy2mK0l35jEOF83U0u_FQA2L_7WrXECoNOyNsTQL67Kndjp2wTgJC-J7o2ze1PJKpVktpnTxqRfdpziZ2qaD8bsqaupDqkq-9b7ooiVGUwQW0P1kOlC-U9IgBQpL7TYTcdLCWNDe9xP4ps1kiURh7Ct9hHKZrHz22pBceXabglkrS7_h_g3xLhHJykgXdCkKTXsGbxMb948tL7NsbNylWXeB0g6SjEEoJ5NEEPEPddJ1Ut_SsXKq3Q6UBw0tnBOxGlUBSDpQihufOvutiOzF8_gNMGSrCh-t0r9fHvh-UveMDZ47bsdDN9ck_6_IQSiMaR7W7mi0LFdug8Gs6YGSDqMh65e8TQhsQ9_Xrb5ohE4ljVwI0S9aAVgmRSyDQDz2ouyoofekVuGiwy2mMmWeLkGJiFMOJRDDETsJjjDq-aQrg0kNOnLrzi8ILRUMZG17cGgqHLNurX-L-G-_e9NUxBO1ARSh2rOu6AhdnUMKawJtP6ZliTBR3b6JP-ZiUiVafkFVOunvWsPIhkFISz7isAUmYM5aqX21RgOYU8WtqFo9cgLDMMmJhPHhUAjnfDyBUh5BneUe2dCXBdQe_45ZyEaAGX0cu13RdHDYz4Zp97cgT7b02g4ch-jn38dIBExpwqyBZcxktofg8Su5urXkboRKnw4XzXQtYeKVOxPRJfzkSqjP6O91RrhhRWUrSqXDGPgkWUHvD7zWdY7DZ9otondrvQFmAyB808kzz6uWnseZW0n5nYu5DbvxTmL_Rr54OJrg3Ey81kn2PkAEM5ff0jN8_uaImxtQV1WSxR5IjMPGMx78duHLUO2cbA50ywoN4BNvlBZuEySh9M0Wae9jTmpQzVoVlXaNa2fzrgVnZ3gq8_N_QO1iP4HASQuiZ89Ctb4gNBGb-b9SAlj41UMr_MW6Qkmsl5_VcwBDBv2nCO_4zE0WQqQsx484ycUMuh8vT0KZ2W8nPeN7X_zT0qDatW4veju5P735V7O1kTbhVGQuqArdA8SKtI68-vJMbD28JcKkpJnGZW00441fE7UXUnBS3TGc3xcbfHuWGpAvrrcOLzkhDg-VJDzUxTOEJ9X_flG_b7BSbTcdABfMkTbwZ85LbRU4vkUH8pqrCX-S29SoufRxUc5vstfhJC5Wl2zxwOlnHwK-BBgrW6ZC1Ehw_Ih6A-k-l2mv7A3EBdPSwTu47Qzxj1idSAjNgYAsMbz-3-47XRJLmRoEhz6YXNUvvm2MEwppThiu1-VpetQiJaQLWJ6xqpyLGY-BmDgaiWyUeXQkeDuZ-s3rRVlhXiN85TOrKeqntpvjTjUU01ZUbj5fe-wG_nJWlNlrQiNPZPX4SNd7J9QgSCPLurG2uFfPXcXQrJ12tO89Svqg-yThiHhQog_UpU0h65o_T1ePQuoJvNqPytf_O-Sgid4ghLqoR62MO2NQ_KZvXsSHxLypj5HnWFBX7iiMbMaXIj6gNt0BhD4W8M1jzukwduQBeESAkUYylGWl4ybXL-ZUjJjgLvKfFqKlI0KgqRbZE68_yWYw755EcAYOaCJgT2v-Gh1McAp18agRRLM1pOWUuaoxonnPBtnF5YNKaK-lbQpy1f5aiDeTaaNK0zzh9T2hpi8a-cEg5GvlhhrXHn7vtRPFD9Kvn8h6NsHEQ559fDKv-c4ExdNvj7tthmB0m_r29mKihnh22Ws4BO-ULTXHMkMmK5rNAbWC4YzP6XTG33OwIcffjXZIUrBsIs30c-ciLBnB26IpJvLhTe_bOaZ93kx3hb0g9idz8bGw7YHm_rkUf8YdFaMFNewFWAyol1kam0R493DHGI33uuA1gXcphOEXDJ3wuFBPDpnQaAuMt3_XwgXJPusmhq-L21N1IkIF7PzWf_ca9i64OUneDZA-oQW9b8fi4kBdaOLo1QmV93Srfmt-sxD61owlKjXvGaoHTmvALXRQYJxhnc-IYAEHXWN3srzrG8iYrRaJIM6bhfTJYZJ6Yj7Ywh2nAHmFjmbrP8LEusIRLwLzjE9Ux6rWnq2yBMWg0fZqG33a4aMZL9rFAoeZjlSjSixCY4xVhrfChXX4gHo7HhN9PPDwsYF5NFKJFYabgvnBEuJ8O5eNjbl8zCh4ZwD3DSxHbLdXc9QSok0F_1uyX7HLOkA6a5WUmZyNDnOdQ8VzjeGdIerJyvQbbYdxX0N0VHpejChQIh9J0Bx9QwLDKPjWXCvggHPViY5cIKRwpJ70wHuNTOwGqFatErtbWFu7NYuiJ5WfN3pTAmmcyK7xZUW",
+      "domain": "ppa-latimer-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNetCore.CookiesC2",
+      "value": "mlm2TfHHlMXXZaljgP6378DZIPKv6RuQwrCSRwwLSGmjKKHgd5teacRM-_MKHFlMmkl1LadA0DlnXIc3ZgTp9OmtPC74zC9QcqAkQlWqRwC6n93eT76hi7l1ZJEgPryenK1e1mK9wpxWrcGUrzQB_Osvkpdr4qS41mx290wIggh2xwVelFY4PjcDEB3on4iJmFDNVAdnVOrtyiHDygZAVfPvL89xQnW1q6V-DGnpuT2X8mnn6Ct6k4NsVjJccn8jF7KgKcMUGa44fbknRFEB57p8jtcfuNvFCSFKByd4hWIMHj05VQyQrP0Xhn8t_-EZJ7uEIHpphnVTnvbe8ySqPW8aVMLr2nuiE39htTuRlyvvdpFYJ179K3kMhUNV8uaL1TN1CgWFNT3RUb57_fp6FLDcl1BXVIA4IToRSL6azrMfeSbiO2PzObPY_A0Njm8IQJuK0scIdQLO8fiyVIis2RM2apQ_eXCFj66uRYeMkQL7QQIjXu1CMIM_fz61_TCm8qnh8n9TA53DdLgfCP-yfO-F27-vAYSnhu0kREshRZ9SqRplM3ejox1r8RkEtQIfThKc7Jl66TxZbeaidO5Wb53unpM4_55zKmA7b6f13nUl1UZRgTkau6igD2M2yRUTD3CrKP4i_KDfBhdinjdILzcqFgH9qmsOVl5LyTOT4OMOq8dLYbx-fiXAA_SPhMfu5rjDxgnIEfyan7t0Mbaf4HWZZPN4bAzfp4tEX00XTaQMrEsGyyc2RoqF24IK5NmKpGBBEwwSzjqUg619lSFuCN1AvELzkDeHPkoevEi0Tdptj5XjR2-VAsIAL6tMasi2hOcP4VAoG-1D3wm8MRUBz_FtgFYIU6Zi3a4Jza22ohEmRhdZ2wpmMcPXC1UHKUYSu1GMSmI5lcQZk_mnvgWG_lp5ZPe_k-HD4PcY7M_q6PgnwPWz3Ch5PuEvifpPJMXMNrgFm3xBR6q7rTlfsjYMnCF4n5rf4_5FMiJnvEigoxObshnaJUl4NVvrpbQk00nyCn1jjNm-OkUMCXvSL2cLUJTPW7rK8ybdXGNQSu5QYwVc9qmwWnaeQHnEbuglSpqIzUs0EX2O03VqFtAMojgIrErBIt8JNDGQaYmFHKIzfNCAiR3mIGVX8jg4PJ1LNAnap1bd1Kt3A0FyJbRGe16nJSfRyYA0Ca89aQu4tULfNrOohKaqGxflh9UBXcJp6Db2nerHP_5gyLm3ks4xVYB0X2HgLuQ0Oc4v0dh8bpcTOBvgyEH79nNNikihKOe_Pm1FTm2VZUG3MzXf-6Ax4id5rU34Ch279ljh5gwFnkEmtYrg5qy86AK1I-QySwJH5-SeM8Q52xufSHLtqAC3v3zuKc4bGnALP7Ab8vpi0FTiJgjUWESsPdKbf_YpqBv8GO5HsPdhM08T8odH_Qh56gsO6wh6cQrMF-2bY0uvpPPBoHhDs8LvvvQ",
+      "domain": "ppa-latimer-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNetCore.Antiforgery.VyLW6ORzMgk",
+      "value": "CfDJ8EY8C8as0XNGlfB1DnMcsFx0-iX8ePADobbcokDyLASQT-O1H0Z7p7ga5cED86UO4mm4AQpB55DDiX9IMwj_FY3Svsf_x6oXnIEPFFj8vu-X-lUpIqweeyQd1yeuDOvlcouYR5Bf4OxOR7NtIf-5ONc",
+      "domain": "ppa-latimer-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AWSALB",
+      "value": "203wg5afCJst3limz/DsX6laSedni0sZcOUOEPblndhLmqEPBY0QLpJ/3ZbBqYi+suffzqbSds5rV+P5v+f/FX9l0xqGmwx2vDUbLO3iVjuoQT3ZI7qbckeIv1c2",
+      "domain": "ppa-latimer-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": 1724843469.864536,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "203wg5afCJst3limz/DsX6laSedni0sZcOUOEPblndhLmqEPBY0QLpJ/3ZbBqYi+suffzqbSds5rV+P5v+f/FX9l0xqGmwx2vDUbLO3iVjuoQT3ZI7qbckeIv1c2",
+      "domain": "ppa-latimer-eu-west-1.dev.worka.tech",
+      "path": "/",
+      "expires": 1724843469.864723,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
