@@ -2,7 +2,7 @@
 import { test, expect } from '@playwright/test';
 import PMSIntegrations from '../pages/PMSIntegrations.page';
 
-test('User can integrate with third parties', async ({ page }) => {
+test('User can integrate with third parties', async ({ page, browser }) => {
   // Given
   const pmsIntegrationsPage = new PMSIntegrations(page);
 

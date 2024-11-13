@@ -26,7 +26,6 @@ test('User is notified of empty fields', async ({ page }) => {
 
   // When
   await companyOnboardingPage.gotoCompanyOnboarding();
-
   await companyOnboardingPage.continueRegistration();
 
   // Then
